@@ -12,7 +12,7 @@ class Task //class of each task
     int release_time; //arrival time
     int execution_time;
     int deadline;
-    int period; //waiting time
+    int period;
     int preemption;
     int task;
     int suspend = 0;
